@@ -54,7 +54,6 @@ defmodule Moov.MixProject do
       {:req, "~> 0.6.1"},
       {:jason, "~> 1.4.4"},
       {:telemetry, "~> 1.3.0"},
-
       {:mint, "~> 1.7.1"},
       {:castore, "~> 1.0.14"},
       {:hpax, "~> 0.2.0"},
