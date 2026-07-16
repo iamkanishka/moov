@@ -32,7 +32,7 @@ of it.
 
 ```elixir
 def deps do
-  [{:moov, "~> 0.1"}]
+  [{:moov, "~> 1.0"}]
 end
 ```
 
