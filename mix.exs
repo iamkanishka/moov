@@ -52,7 +52,7 @@ defmodule Moov.MixProject do
   defp deps do
     [
       {:req, "~> 0.6.1"},
-      {:jason, "~> 1.4.4", override: true},
+      {:jason, "~> 1.4.4"},
       {:telemetry, "~> 1.3.0", override: true},
       {:finch, "~> 0.19.0", override: true},
       {:mint, "~> 1.7.1", override: true},
